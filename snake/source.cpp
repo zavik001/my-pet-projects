@@ -185,3 +185,5 @@ int main() {
 	system("cls"); // очищаем экран
 	cout << "GAME OVER\n"; // выводим сообщение о конце игры
 }
+
+//yrjdhdhjfh
