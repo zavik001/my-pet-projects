@@ -1,7 +1,7 @@
 #ifndef VECTOR_UTILITY_H_
 #define VECTOR_UTILITY_H_
 #include <iostream>
-namespace s21 {
+namespace container {
 template <class T>
 struct remove_const {
   typedef T type;
@@ -29,6 +29,6 @@ class iterator_traits<T*> {
   typedef T& reference;
   typedef std::random_access_iterator_tag iterator_category;
 };
-}  // namespace s21
+}  // namespace container
 
 #endif  // VECTOR_UTILITY_H_
