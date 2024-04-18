@@ -13,7 +13,7 @@ main.o: main.cpp
 game.o: game.hpp game.cpp
 	$(CC) $(CFLAGS) -c game.cpp
 
-board.o: board.hpp board.cpp
+board.o: board.hpp board.cpp 	
 	$(CC) $(CFLAGS) -c board.cpp
 
 move.o: move.hpp move.cpp

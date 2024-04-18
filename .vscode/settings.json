@@ -1,6 +1,30 @@
 {
    "C_Cpp.errorSquiggles": "disabled",
    "files.associations": {
-      "iostream": "cpp"
+      "iostream": "cpp",
+      "memory": "cpp",
+      "vector": "cpp",
+      "iterator": "cpp",
+      "type_tra": "cpp",
+      "streambu": "cpp",
+      "cctype": "cpp",
+      "cmath": "cpp",
+      "cstdarg": "cpp",
+      "cstddef": "cpp",
+      "cstdio": "cpp",
+      "cstdlib": "cpp",
+      "cstring": "cpp",
+      "ctime": "cpp",
+      "cwchar": "cpp",
+      "exceptio": "cpp",
+      "iomanip": "cpp",
+      "ios": "cpp",
+      "istream": "cpp",
+      "limits": "cpp",
+      "new": "cpp",
+      "ostream": "cpp",
+      "stdexcep": "cpp",
+      "typeinfo": "cpp",
+      "utility": "cpp"
    }
 }
