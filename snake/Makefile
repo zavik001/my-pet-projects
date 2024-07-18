@@ -1,7 +1,7 @@
 
 CC = g++
 CFLAGS = -std=c++17 -Wall -pedantic -O4
-CLEAN = rm -rf
+CLEAN = rm 
 APP = tictac
 
 all: constants.hpp main.o game.o board.o move.o
